@@ -1,13 +1,3 @@
-/*------------------------------------------------------------------------
- 073.c 编程达人win32 API每日一练
-	 第73个例子：通用控件-工具栏控件
-	 TBBUTTON结构
-	 NMTOOLBAR结构
-	 NMTTDISPINFO结构
-	 NMHDR结构结构
-	 WM_NOTIFY消息
- (c) www.bcdaren.com 编程达人
------------------------------------------------------------------------*/
 #include <Windows.h>
 #include <commctrl.h>
 #pragma comment(lib,"comctl32.lib")
